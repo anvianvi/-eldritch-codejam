@@ -1,6 +1,6 @@
-import Ancients from '../assets/Ancients/index'
+import Ancients from '.././assets/Ancients/index'
 
-const ancientsData = [
+export const ancientsData = [
   {
     id: 'azathoth',
     name: 'azathoth',
@@ -83,4 +83,3 @@ const ancientsData = [
   },
 ]
 
-export default ancientsData
