@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/-eldritch-codejam/static/css/main.073c9b0a.css",
-    "main.js": "/-eldritch-codejam/static/js/main.0386bd5e.js",
+    "main.css": "/-eldritch-codejam/static/css/main.73fc3613.css",
+    "main.js": "/-eldritch-codejam/static/js/main.1048c62c.js",
     "static/js/787.28cb0dcd.chunk.js": "/-eldritch-codejam/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/-eldritch-codejam/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/home.png": "/-eldritch-codejam/static/media/home.635012cb5c1e192ab1c6.png",
+    "static/media/Azathoth.png": "/-eldritch-codejam/static/media/Azathoth.e76cc60e6f2b9bb167ce.png",
+    "static/media/mythicCardBackground.png": "/-eldritch-codejam/static/media/mythicCardBackground.6cfef7456fa52cb3c0c7.png",
     "index.html": "/-eldritch-codejam/index.html",
-    "main.073c9b0a.css.map": "/-eldritch-codejam/static/css/main.073c9b0a.css.map",
-    "main.0386bd5e.js.map": "/-eldritch-codejam/static/js/main.0386bd5e.js.map",
+    "main.73fc3613.css.map": "/-eldritch-codejam/static/css/main.73fc3613.css.map",
+    "main.1048c62c.js.map": "/-eldritch-codejam/static/js/main.1048c62c.js.map",
     "787.28cb0dcd.chunk.js.map": "/-eldritch-codejam/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0386bd5e.js"
+    "static/css/main.73fc3613.css",
+    "static/js/main.1048c62c.js"
   ]
 }
