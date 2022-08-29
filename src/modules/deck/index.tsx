@@ -41,6 +41,10 @@ export function shafledeck(e: number) {
   };
 }
 let deck = shafledeck(0);
+console.log(deck);
+function ShowNextCard() {
+  return <div className="current-card" id="curentcard"></div>;
+}
 
 export default function Deck() {
   return (
@@ -72,7 +76,8 @@ export default function Deck() {
         </div>
       </div>
       <div className="deck"></div>
-      <div className="current-card"></div>
+      <div className="current-card" id="curentcard"></div>
+      <ShowNextCard />
     </div>
   );
 }
@@ -82,4 +87,8 @@ export function createNewDeck(e: number) {
 
   let rootElement = document.getElementById("decktemplate");
   ReactDOM.render(<Deck />, rootElement);
+  alert(
+    `You shufled a new deck! ancient: Azathoth dificult: normal You can view it in console!`
+  );
+  console.log(deck);
 }
