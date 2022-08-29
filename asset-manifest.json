@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/-eldritch-codejam/static/css/main.41df18a4.css",
+    "main.css": "/-eldritch-codejam/static/css/main.37f85210.css",
     "main.js": "/-eldritch-codejam/static/js/main.a972df4b.js",
     "static/js/787.28cb0dcd.chunk.js": "/-eldritch-codejam/static/js/787.28cb0dcd.chunk.js",
     "static/media/home.png": "/-eldritch-codejam/static/media/home.635012cb5c1e192ab1c6.png",
@@ -61,12 +61,12 @@
     "static/media/brown2.png": "/-eldritch-codejam/static/media/brown2.c44579505d0d3ccfd7c8.png",
     "static/media/green11.png": "/-eldritch-codejam/static/media/green11.305fdb3b09ad909c598f.png",
     "index.html": "/-eldritch-codejam/index.html",
-    "main.41df18a4.css.map": "/-eldritch-codejam/static/css/main.41df18a4.css.map",
+    "main.37f85210.css.map": "/-eldritch-codejam/static/css/main.37f85210.css.map",
     "main.a972df4b.js.map": "/-eldritch-codejam/static/js/main.a972df4b.js.map",
     "787.28cb0dcd.chunk.js.map": "/-eldritch-codejam/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41df18a4.css",
+    "static/css/main.37f85210.css",
     "static/js/main.a972df4b.js"
   ]
 }
