@@ -1,0 +1,21 @@
+.dificulty-container {
+  width: 10vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 15px;
+}
+.dificulty {
+  width: 75px;
+  height: 35px;
+  border: 1px solid palevioletred;
+  color: palevioletred;
+  cursor: pointer;
+  padding: 6px 0;
+  text-align: center;
+  box-sizing: border-box;
+}
+.difficulty-container .difficulty.active {
+  background-color: lightpink;
+}

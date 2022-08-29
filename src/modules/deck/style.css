@@ -1,0 +1,58 @@
+.deck-container {
+  width: 35vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.deck {
+  width: 100px;
+  height: 160px;
+  background: url(./../../../assets/mythicCardBackground.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  cursor: pointer;
+  border: 2px solid palevioletred;
+}
+.stage-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0 0 0;
+}
+.current-card {
+  width: 100px;
+  height: 160px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.dots-container {
+  display: flex;
+  gap: 10px;
+}
+.dot {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.green {
+  background: green;
+}
+.brown {
+  background: brown;
+}
+.blue {
+  background: blue;
+}
+
+.stage-heading {
+  color: palevioletred;
+}
